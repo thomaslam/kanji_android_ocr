@@ -1,4 +1,5 @@
 Github URL: https://github.com/thomaslam/kanji_android_ocr
+
 Important files/directories:
 * **server.py**: Python server code
 * **train_model.py**: ML model implementation in Python
